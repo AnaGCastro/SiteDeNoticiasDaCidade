@@ -1,6 +1,6 @@
 # 📰 Notícias da Cidade
 
-![Capa do Projeto](src/assets/imagens/imgFundo.jpeg)
+![Capa do Projeto](noticias-da-cidade.png)
 
 Este é um projeto fictício de um blog de notícias locais chamado **Notícias da Cidade**, desenvolvido utilizando **HTML** e **CSS puro**. O objetivo principal foi revisar os fundamentos do **frontend** e praticar a estruturação de páginas estáticas com estilos personalizados.
 
